@@ -1,0 +1,299 @@
+{
+	"code": 0,
+	"message": "0",
+	"ttl": 1,
+	"data": {
+		"room_info": {
+			"uid": 31531596,
+			"room_id": 14866481,
+			"short_id": 0,
+			"title": "学个锤子",
+			"cover": "http://i0.hdslb.com/bfs/live/new_room_cover/21f87a0106d8029e95a5dd08e1b4466f156c674c.jpg",
+			"tags": "",
+			"background": "",
+			"description": "",
+			"live_status": 0,
+			"live_start_time": 0,
+			"live_screen_type": 0,
+			"lock_status": 0,
+			"lock_time": 0,
+			"hidden_status": 0,
+			"hidden_time": 0,
+			"area_id": 87,
+			"area_name": "守望先锋",
+			"parent_area_id": 2,
+			"parent_area_name": "网游",
+			"keyframe": "http://i0.hdslb.com/bfs/live/keyframe01262301000014866481e506xz.jpg",
+			"special_type": 0,
+			"up_session": "0",
+			"pk_status": 0,
+			"is_studio": false,
+			"pendants": {
+				"frame": {
+					"name": "",
+					"value": "",
+					"desc": ""
+				}
+			},
+			"on_voice_join": 0,
+			"online": 10,
+			"room_type": {
+				"4-1": 1
+			}
+		},
+		"anchor_info": {
+			"base_info": {
+				"uname": "音の尾",
+				"face": "http://i2.hdslb.com/bfs/face/0dc4ffe3456f5a278ea635b663095e81faee1d33.jpg",
+				"gender": "男",
+				"official_info": {
+					"role": -1,
+					"title": "",
+					"desc": ""
+				}
+			},
+			"live_info": {
+				"level": 11,
+				"level_color": 5805790,
+				"score": 30395,
+				"upgrade_score": 9215,
+				"current": [9100, 27160],
+				"next": [12450, 39610],
+				"rank": "\u003e10000"
+			},
+			"relation_info": {
+				"attention": 111
+			},
+			"medal_info": null
+		},
+		"news_info": {
+			"uid": 31531596,
+			"ctime": "",
+			"content": ""
+		},
+		"rankdb_info": {
+			"roomid": 14866481,
+			"rank_desc": "小时总榜",
+			"color": "#FB7299",
+			"h5_url": "https://live.bilibili.com/p/html/live-app-rankcurrent/index.html?is_live_half_webview=1\u0026hybrid_half_ui=1,5,85p,70p,FFE293,0,30,100,10;2,2,320,100p,FFE293,0,30,100,0;4,2,320,100p,FFE293,0,30,100,0;6,5,65p,60p,FFE293,0,30,100,10;5,5,55p,60p,FFE293,0,30,100,10;3,5,85p,70p,FFE293,0,30,100,10;7,5,65p,60p,FFE293,0,30,100,10;\u0026anchor_uid=31531596\u0026rank_type=master_realtime_hour_room\u0026area_hour=1\u0026area_v2_id=87\u0026area_v2_parent_id=2",
+			"web_url": "https://live.bilibili.com/blackboard/room-current-rank.html?rank_type=master_realtime_hour_room\u0026area_hour=1\u0026area_v2_id=87\u0026area_v2_parent_id=2",
+			"timestamp": 1611725645
+		},
+		"area_rank_info": {
+			"areaRank": {
+				"index": 0,
+				"rank": "\u003e1000"
+			},
+			"liveRank": {
+				"rank": "\u003e10000"
+			}
+		},
+		"battle_rank_entry_info": {
+			"first_rank_img_url": "",
+			"rank_name": "尚无段位",
+			"show_status": 1
+		},
+		"tab_info": {
+			"list": [{
+				"type": "seven-rank",
+				"desc": "高能榜",
+				"isFirst": 1,
+				"isEvent": 0,
+				"eventType": "",
+				"listType": "",
+				"apiPrefix": "",
+				"rank_name": "room_7day"
+			}, {
+				"type": "guard",
+				"desc": "大航海",
+				"isFirst": 0,
+				"isEvent": 0,
+				"eventType": "",
+				"listType": "top-list",
+				"apiPrefix": "",
+				"rank_name": ""
+			}]
+		},
+		"activity_init_info": {
+			"eventList": [],
+			"weekInfo": {
+				"bannerInfo": null,
+				"giftName": null
+			},
+			"giftName": null,
+			"lego": {
+				"timestamp": 1611725645,
+				"config": "[{\"name\":\"frame-mng\",\"url\":\"https:\\/\\/live.bilibili.com\\/p\\/html\\/live-web-mng\\/index.html?roomid=#roomid#\u0026arae_id=#area_id#\u0026parent_area_id=#parent_area_id#\u0026ruid=#ruid#\",\"startTime\":1559544736,\"endTime\":1877167950,\"type\":\"frame-mng\"},{\"name\":\"s10-fun\",\"target\":\"sidebar\",\"icon\":\"https:\\/\\/i0.hdslb.com\\/bfs\\/activity-plat\\/static\\/20200908\\/3435f7521efc759ae1f90eae5629a8f0\\/HpxrZ7SOT.png\",\"text\":\"\\u7545\\u73a9s10\",\"url\":\"https:\\/\\/live.bilibili.com\\/s10\\/fun\\/index.html?room_id=#roomid#\u0026width=376\u0026height=600\u0026source=sidebar\",\"color\":\"#2e6fc0\",\"startTime\":1600920000,\"endTime\":1604721600,\"parentAreaId\":2,\"areaId\":86}]"
+			}
+		},
+		"voice_join_info": {
+			"status": {
+				"open": 0,
+				"anchor_open": 0,
+				"status": 0,
+				"uid": 0,
+				"user_name": "",
+				"head_pic": "",
+				"guard": 0,
+				"start_at": 0,
+				"current_time": 1611725645
+			},
+			"icons": {
+				"icon_close": "https://i0.hdslb.com/bfs/live/a176d879dffe8de1586a5eb54c2a08a0c7d31392.png",
+				"icon_open": "https://i0.hdslb.com/bfs/live/70f0844c9a12d29db1e586485954290144534be9.png",
+				"icon_wait": "https://i0.hdslb.com/bfs/live/1049bb88f1e7afd839cc1de80e13228ccd5807e8.png",
+				"icon_starting": "https://i0.hdslb.com/bfs/live/948433d1647a0704f8216f017c406224f9fff518.gif"
+			},
+			"web_share_link": "https://live.bilibili.com/h5/14866481"
+		},
+		"ad_banner_info": {
+			"data": [{
+				"id": 68836,
+				"title": "英雄联盟S11百万征召令",
+				"location": "room_advertisement",
+				"position": 1,
+				"pic": "https://i0.hdslb.com/bfs/live/46de5dc256fe7d3d1888355ce813f2e5d053ee7d.jpg",
+				"link": "https://www.bilibili.com/blackboard/dynamic/6536",
+				"weight": 0
+			}, {
+				"id": 68527,
+				"title": "投稿直播教程，瓜分万元现金大奖",
+				"location": "room_advertisement",
+				"position": 2,
+				"pic": "https://i0.hdslb.com/bfs/live/9f12b72cc55f030b7ee5c75fab8308fed2c25578.jpg",
+				"link": "https://www.bilibili.com/blackboard/topic/activity-0ax4poOEk.html",
+				"weight": 0
+			}, {
+				"id": 68736,
+				"title": "英雄联盟阿利斯塔年迎新大作战",
+				"location": "room_advertisement",
+				"position": 3,
+				"pic": "https://i0.hdslb.com/bfs/live/501099798f593ce49edb284469e0ff952a5f0200.png",
+				"link": "https://www.bilibili.com/blackboard/activity-NWc88NjSz.html",
+				"weight": 0
+			}]
+		},
+		"skin_info": {
+			"id": 0,
+			"skin_name": "",
+			"skin_config": "",
+			"show_text": "",
+			"skin_url": "",
+			"start_time": 0,
+			"end_time": 0,
+			"current_time": 0
+		},
+		"web_banner_info": {
+			"id": 0,
+			"title": "",
+			"left": "",
+			"right": "",
+			"jump_url": "",
+			"bg_color": "",
+			"hover_color": "",
+			"text_bg_color": "",
+			"text_hover_color": "",
+			"link_text": "",
+			"link_color": "",
+			"input_color": "",
+			"input_text_color": "",
+			"input_hover_color": "",
+			"input_border_color": "",
+			"input_search_color": ""
+		},
+		"lol_info": {
+			"lol_activity": {
+				"status": 0,
+				"guess_cover": "http://i0.hdslb.com/bfs/live/61d1c4bcce470080a5408d6c03b7b48e0a0fa8d7.png",
+				"vote_cover": "https://i0.hdslb.com/bfs/activity-plat/static/20190930/4ae8d4def1bbff9483154866490975c2/oWyasOpox.png",
+				"vote_h5_url": "https://live.bilibili.com/p/html/live-app-wishhelp/index.html?is_live_half_webview=1\u0026hybrid_biz=live-app-wishhelp\u0026hybrid_rotate_d=1\u0026hybrid_half_ui=1,3,100p,360,0c1333,0,30,100;2,2,375,100p,0c1333,0,30,100;3,3,100p,360,0c1333,0,30,100;4,2,375,100p,0c1333,0,30,100;5,3,100p,360,0c1333,0,30,100;6,3,100p,360,0c1333,0,30,100;7,3,100p,360,0c1333,0,30,100;8,3,100p,360,0c1333,0,30,100;",
+				"vote_use_h5": true
+			}
+		},
+		"wish_list_info": {
+			"list": [],
+			"status": 0
+		},
+		"score_card_info": null,
+		"pk_info": null,
+		"battle_info": null,
+		"silent_room_info": {
+			"type": "",
+			"level": 0,
+			"second": 0,
+			"expire_time": 0
+		},
+		"switch_info": {
+			"close_guard": false,
+			"close_gift": false,
+			"close_online": false,
+			"close_danmaku": false
+		},
+		"record_switch_info": {
+			"record_tab": false
+		},
+		"room_config_info": {
+			"dm_text": "发个弹幕呗~"
+		},
+		"gift_memory_info": {
+			"list": null
+		},
+		"new_switch_info": {
+			"room-socket": 1,
+			"room-prop-send": 1,
+			"room-sailing": 1,
+			"room-info-popularity": 1,
+			"room-danmaku-editor": 1,
+			"room-effect": 1,
+			"room-fans_medal": 1,
+			"room-report": 1,
+			"room-feedback": 1,
+			"room-player-watermark": 1,
+			"room-recommend-live_off": 1,
+			"room-activity": 1,
+			"room-web_banner": 1,
+			"room-silver_seeds-box": 1,
+			"room-wishing_bottle": 1,
+			"room-board": 1,
+			"room-supplication": 1,
+			"room-hour_rank": 1,
+			"room-week_rank": 1,
+			"room-anchor_rank": 1,
+			"room-info-integral": 1,
+			"room-super-chat": 1,
+			"room-tab": 1,
+			"room-hot-rank": 1
+		},
+		"super_chat_info": {
+			"status": 1,
+			"jump_url": "https://live.bilibili.com/p/html/live-app-superchat2/index.html?is_live_half_webview=1\u0026hybrid_half_ui=1,3,100p,70p,ffffff,0,30,100;2,2,375,100p,ffffff,0,30,100;3,3,100p,70p,ffffff,0,30,100;4,2,375,100p,ffffff,0,30,100;5,3,100p,60p,ffffff,0,30,100;6,3,100p,60p,ffffff,0,30,100;7,3,100p,60p,ffffff,0,30,100\u0026is_cling_player=1",
+			"icon": "https://i0.hdslb.com/bfs/live/0a9ebd72c76e9cbede9547386dd453475d4af6fe.png",
+			"ranked_mark": 0,
+			"message_list": []
+		},
+		"online_gold_rank_info_v2": {
+			"list": null
+		},
+		"video_connection_info": null,
+		"player_throttle_info": {
+			"status": 1,
+			"normal_sleep_time": 1800,
+			"fullscreen_sleep_time": 3600,
+			"tab_sleep_time": 1800,
+			"prompt_time": 30
+		},
+		"guard_info": {
+			"count": 0,
+			"anchor_guard_achieve_level": 0
+		},
+		"hot_rank_info": {
+			"rank": 0,
+			"trend": 0,
+			"countdown": 1555,
+			"timestamp": 1611725645,
+			"url": "https://live.bilibili.com/p/html/live-app-hotrank/index.html?clientType=2\u0026area_id=0",
+			"icon": "",
+			"area_name": ""
+		}
+	}
+}

@@ -19,8 +19,8 @@ func httpGet(url string)(string, error){//返回一个包含着json的data字符
 	}//处理读res得到的err
 	return string(data),err
 }
-func jsonDecoding(data string)(structure.bilibili,error){
-	var jsonstruct structure.bilibili
+func jsonDecoding(data string)(structure.Bilibili,error){
+	var jsonstruct structure.Bilibili
 	err := json.Unmarshal([]byte(data),&jsonstruct)
 	return jsonstruct,err
 }
@@ -32,6 +32,15 @@ func main(){
 	jsonStruct,err2 := jsonDecoding(jsonString)
 	if err2 != nil{
 		fmt.Println("Error occurs trying to decode json")
+	}
+	fmt.Println("标题：" + jsonStruct.Data.RoomInfo.Title)
+	fmt.Println("封面图片URL：" + jsonStruct.Data.RoomInfo.Cover)
+	fmt.Println("描述：" + jsonStruct.Data.RoomInfo.Description)
+	fmt.Print("开播状态：")
+	if jsonStruct.Data.RoomInfo.LiveStatus == 1 {
+		fmt.Println("已开播")
+	}else{
+		fmt.Println("未开播")
 	}
 	return
 }

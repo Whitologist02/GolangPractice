@@ -1,6 +1,6 @@
 package structure
 
-type bilibili struct {
+type Bilibili struct {
 	Code    int    `json:"code"`
 	Message string `json:"message"`
 	TTL     int    `json:"ttl"`

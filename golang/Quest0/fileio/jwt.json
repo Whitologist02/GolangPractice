@@ -1,0 +1,13 @@
+{
+    "typ":"JWT",
+    "alg":"HS256"
+}
+{
+    "sub":"Megumin",
+    "iat":1612422922,
+    "exp":1612423222
+}
+{
+    "secret":"Meguminisabaka"
+}
+//并不是合法json
